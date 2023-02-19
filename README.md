@@ -12,9 +12,9 @@ Hi there, I'm Umut :blush: 💪
 
 <br />
 <br />
-[instagram]: "https://www.instagram.com/umut.kaynak/"
+[instagram]: https://www.instagram.com/umut.kaynak/
 [linkedin]: https://www.linkedin.com/in/umut-kaynak-88824019a/
-[twitter]: (https://twitter.com/umutkynk12)
+[twitter]: https://twitter.com/umutkynk12
 
 ## 🗽 Stats
 
