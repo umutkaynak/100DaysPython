@@ -6,9 +6,9 @@ Hi there, I'm Umut :blush: 💪
 
 <font color="blue"> Python programming from start to finish with 100 projects in 100 days  </font>
 
-[<img  width="22" align="left src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />][instagram]
-[<img  width="22" align="left src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][linkedin]
-[<img  width="22" align="left src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" />][twitter]
+[<img  width="22"  src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left />][instagram]
+[<img  width="22"  src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left />][linkedin]
+[<img  width="22"  src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left />][twitter]
   
 [instagram]: https://www.instagram.com/umut.kaynak/
 [linkedin]: https://www.linkedin.com/in/umut-kaynak-88824019a/
