@@ -1,20 +1,19 @@
-### 100DaysPython
-Hi there, I'm Umut :blush: 💪
-## PROGRAMMER 
+## I'm a PROGRAMMER
+## Hi there, I'm Umut :blush: 💪
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk1ZjkzYTFjN2ExNWUwNDc2YjQ1Y2IyZTU0ODQzMTc0YjE1MmQ3MCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  align="right"  widht="400" height="250">
 
-<font color="blue"> Python programming from start to finish with 100 projects in 100 days  </font>
+## 🏀 My hobbies
+
+- Basketbol & Running
+- Reading
+- Archery
+
+## 💬 Reach out to me
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-[instagram]: https://www.instagram.com/umut.kaynak/
-[linkedin]: https://www.linkedin.com/in/umut-kaynak-88824019a/
-[twitter]: https://twitter.com/umutkynk12
 
 ## 🗽 Stats
 
@@ -31,8 +30,9 @@ Hi there, I'm Umut :blush: 💪
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkaynak&theme=vue"/>
 </details>
 
+![](https://komarev.com/ghpvc/?username=umutkaynak&color=blueviolet)
 
-Day 14: http://www.higherlowergame.com/
-
-
+[linkedin]: https://www.linkedin.com/in/umut-kaynak-88824019a/
+[twitter]: https://twitter.com/umutkynk12
+[instagram]: https://www.instagram.com/umut.kaynak/
 
