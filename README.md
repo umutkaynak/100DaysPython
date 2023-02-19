@@ -6,10 +6,12 @@ Hi there, I'm Umut :blush: 💪
 
 <font color="blue"> Python programming from start to finish with 100 projects in 100 days  </font>
 
-[<img  width="22"  src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left />][instagram]
-[<img  width="22"  src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left />][linkedin]
-[<img  width="22"  src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left />][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left />][instagram]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left />][twitter]
   
+<br />
+<br />
 [instagram]: https://www.instagram.com/umut.kaynak/
 [linkedin]: https://www.linkedin.com/in/umut-kaynak-88824019a/
 [twitter]: [https://www.linkedin.com/in/umut-kaynak-88824019a/](https://twitter.com/umutkynk12)
@@ -19,4 +21,4 @@ Hi there, I'm Umut :blush: 💪
 Day 14: http://www.higherlowergame.com/
 
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />
+
