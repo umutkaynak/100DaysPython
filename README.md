@@ -16,6 +16,20 @@ Hi there, I'm Umut :blush: 💪
 [linkedin]: https://www.linkedin.com/in/umut-kaynak-88824019a/
 [twitter]: [https://www.linkedin.com/in/umut-kaynak-88824019a/](https://twitter.com/umutkynk12)
 
+## 🗽 Stats
+
+<details>
+    <summary>
+        GitHub Statistics
+    </summary>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sevcanalkan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+</details>
+<details>
+    <summary>
+        Most Used Languages
+    </summary>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevcanalkan&theme=vue"/>
+</details>
 
 
 Day 14: http://www.higherlowergame.com/
