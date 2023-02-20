@@ -1,40 +1,4 @@
-### 100DaysPython
-Hi there, I'm Umut :blush: 💪
-## PROGRAMMER 
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk1ZjkzYTFjN2ExNWUwNDc2YjQ1Y2IyZTU0ODQzMTc0YjE1MmQ3MCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  align="right"  widht="400" height="250">
-
-## 🏀 My hobbies
-
-- Basketbol & Running
-- Reading
-- Archery
-
-## 💬 Reach out to me
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+<img src="https://media.giphy.com/media/JUBGT3IKItmpCz99Vg/giphy.gif"  align="right"  widht="400" height="250">
 
 
-## 🗽 Stats
-
-<details>
-    <summary>
-        GitHub Statistics
-    </summary>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=umutkaynak&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-</details>
-<details>
-    <summary>
-        Most Used Languages
-    </summary>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkaynak&theme=vue"/>
-</details>
-
-![](https://komarev.com/ghpvc/?username=umutkaynak&color=blueviolet)
-
-[linkedin]: https://www.linkedin.com/in/umut-kaynak-88824019a/
-[twitter]: https://twitter.com/umutkynk12
-[instagram]: https://www.instagram.com/umut.kaynak/
-
+Day 14: http://www.higherlowergame.com/
