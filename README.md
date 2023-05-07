@@ -2,7 +2,9 @@
 
 
 Day 14:[🖊️](http://www.higherlowergame.com/)
+
 Day 25:[🗺️](https://www.sporcle.com/games/g/states)
+
 Day 45:[⛏️](https://web.archive.org/web/20200518073855/https://www.empireonline.com/movies/features/best-movies-2/)
 
 
